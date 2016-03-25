@@ -1,6 +1,6 @@
 # Canadian Companies
 
-A curated repository of basic data on Canadian companies listed on the TSX.
+A curated repository of basic data for Canadian companies listed on the TSX.
 
 ### Files
 
